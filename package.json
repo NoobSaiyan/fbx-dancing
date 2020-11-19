@@ -1,0 +1,14 @@
+{
+  "name": "block-chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "noobsaiyan",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.122.0"
+  }
+}
